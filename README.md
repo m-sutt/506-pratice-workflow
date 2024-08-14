@@ -1,5 +1,5 @@
 # 506-pratice-workflow
-This assignment is a primer for 504/507 Fall semester classes to practice a basic development workflow.
+This assignment is a primer for 504/507 Fall semester classes to practice a basic development workflow. Coded in codespace.
 
 ## Variables
 'number_var': A number variable with the value of 42 .
